@@ -1,0 +1,1 @@
+basic informational website made for the purpose of studying the basic ins and outs of a Node.js project.
